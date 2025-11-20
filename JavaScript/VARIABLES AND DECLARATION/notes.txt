@@ -1,0 +1,26 @@
+keywords:- vo words jinka javascript mai kuch matlab hota hai 
+
+A)Variables and Declaration 
+1.var, let and const -- and inka line-by-line comparison 
+var is a part of es5
+let const are part of es6
+
+
+2)REASSIGNMENT AND REDECLARATION 
+
+
+3) HOISTING PER DATA TYPE
+
+
+4)TEMPORAL DEAD ZONE
+
+
+5)SCOPE OF TYPES:-
+GLOBAL
+FUNCTIONAL 
+BLOCK 
+
+
+TWO IMPORTANT QUESTIONS:-
+QUES1) WHY VAR LEAKS OUTSIDE BLOCK BUT LET DOESNT
+QUES2) WHY CONST ALLOWS CHANGING OBJECT PROPERTIES

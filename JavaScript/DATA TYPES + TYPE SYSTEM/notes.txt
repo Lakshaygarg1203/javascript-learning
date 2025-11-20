@@ -1,0 +1,7 @@
+data types---> data ka type
+
+2 types ke hote hain:-
+1)primitive
+2)reference
+
+
